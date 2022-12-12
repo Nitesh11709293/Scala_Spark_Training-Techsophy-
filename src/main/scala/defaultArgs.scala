@@ -1,5 +1,4 @@
-package com.techsophy
-package training
+
 
 object defaultArgs {
   class Employee(name:String,deptId:Int = 0,empId:Int = -1)

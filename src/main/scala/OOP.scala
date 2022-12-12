@@ -1,5 +1,4 @@
-package com.techsophy
-package training
+
 
 object OOP {
   class Employee(empId: Int, val deptId: Int, firstName: String) {

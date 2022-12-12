@@ -1,5 +1,4 @@
-package com.techsophy
-package training
+
 
 object inheritance2 {
 

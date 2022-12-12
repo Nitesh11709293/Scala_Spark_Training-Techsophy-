@@ -1,5 +1,3 @@
-package com.techsophy
-package training
 
 import java.lang
 import scala.::

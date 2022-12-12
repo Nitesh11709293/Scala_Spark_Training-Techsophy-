@@ -1,6 +1,3 @@
-package com.techsophy
-package training
-
 object AnonFp extends App {
 
   trait Animal {

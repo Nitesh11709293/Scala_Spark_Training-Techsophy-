@@ -1,5 +1,4 @@
-package com.techsophy
-package training.practice
+
 
 //Given a number, check whether it is palindrome or not
 

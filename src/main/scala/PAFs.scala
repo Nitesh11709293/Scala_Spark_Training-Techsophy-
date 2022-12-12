@@ -1,5 +1,4 @@
-package com.techsophy
-package training
+
 
 //Partially applied function
 object PAFs extends App{
