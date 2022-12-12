@@ -86,4 +86,18 @@ object Practise1 extends App {
     print(fibo_v2(w,1,0) + " ");
   }
 
+
+  var k=5
+  var m=k;
+  var factorial_result=1;
+  while(k>0)
+    {
+       factorial_result=factorial_result*k;
+       k=k-1;
+    }
+
+  println()
+
+  println("Factorial of " +m + " is : " + factorial_result)
+
 }

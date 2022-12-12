@@ -1,5 +1,4 @@
-package com.techsophy
-package training
+
 
 import scala.Console.println
 import scala.collection.mutable

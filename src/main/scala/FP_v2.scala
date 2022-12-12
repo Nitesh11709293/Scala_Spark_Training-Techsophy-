@@ -1,7 +1,4 @@
-package com.techsophy
-package training
 
-import com.sun.scenario.effect.Offset
 
 object FP_v2 extends App{
 

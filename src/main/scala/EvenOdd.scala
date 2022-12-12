@@ -1,5 +1,4 @@
-package com.techsophy
-package training.practice
+
 
 //Write a function which accepts an integer and returns whether it is even or odd
 

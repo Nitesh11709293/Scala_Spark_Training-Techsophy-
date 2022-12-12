@@ -1,5 +1,3 @@
-package com.techsophy
-package training.practice
 
 object Calculator {
   def main(args:Array[String]):Unit={
