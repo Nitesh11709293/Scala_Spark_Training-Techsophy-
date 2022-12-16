@@ -100,4 +100,14 @@ object Practise1 extends App {
 
   println("Factorial of " +m + " is : " + factorial_result)
 
+
+  @tailrec
+  private def findLastElement[A](ls: List[A]): A = ls match {
+    case h :: Nil => h
+    case _ :: tail => findLastElement(tail)
+    case _ => throw new NoSuchElementException
+  }
+  println(findLastElement(List(1, 1, 2, 3, 5, 8)));
+
+
 }
