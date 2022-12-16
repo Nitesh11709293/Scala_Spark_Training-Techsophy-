@@ -107,7 +107,7 @@ object Practise1 extends App {
     case _ :: tail => findLastElement(tail)
     case _ => throw new NoSuchElementException
   }
-  println(findLastElement(List(1, 1, 2, 3, 5, 8)));
+  println(findLastElement(List(1, 1, 2, 3, 5, 6)));
 
 
 }
