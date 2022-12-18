@@ -1,6 +1,6 @@
 
 import scala.annotation.tailrec
-object BinarySearch {
+object BinarySearch{
 
 //  def binarySearch(list: List[Int], searchElem: Int): Boolean ={
 //
@@ -33,7 +33,7 @@ object BinarySearch {
     searchElement(list,searchElem,0, list.length - 1)
   }
 
-  def main(ags: Array[String]) {
+  def main(args: Array[String]) {
     val list1: List[Int] = List(10,22,43,2,56,79);
     val list2: List[Int] = List.empty;
     val searchKey = 22;
