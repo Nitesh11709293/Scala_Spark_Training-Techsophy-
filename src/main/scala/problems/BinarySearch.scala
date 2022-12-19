@@ -34,7 +34,7 @@ object BinarySearch{
   }
 
   def main(args: Array[String]) {
-    val list1: List[Int] = List(10,22,43,2,56,79);
+    val list1: List[Int] = List(10,22,43,56,79);
     val list2: List[Int] = List.empty;
     val searchKey = 22;
 
